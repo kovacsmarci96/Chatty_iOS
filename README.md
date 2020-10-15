@@ -17,7 +17,7 @@ Ha egy felhasználóra érintünk, megjelenik a chat ablak.
 Ha egy felhasználó szeretne regisztrálni az alkalmazásba ahhoz 3 adatot kell megadnia: Felhasználónév, Email cím, Jelszó. Emellett beállíthat magának egy profilképet ha megérinti az ablakon lévő képet.
 Miután beírta az adatokat a regisztráció gombra nyomva az alkalmazás regisztrálja a felhasználót a Firebase segítségével, feltölti oda az adatait és profilképét, majd elnavigálja a főképernyőre.
 
-![pic][Register]
+![](https://github.com/kovacsmarci96/Chatty_iOS/blob/master/registerScreen.png)
 
 ### Bejelentkezés
 
@@ -33,7 +33,7 @@ Sikeres regisztráció után a felhasználó elé tárul a főképernyő. Itt h�
 A főképernyő tetején lévő Navigációs részben megjelenik a bejelentkezett felhasználó neve és profilképe. 
 Ezek mellett bal oldalon van a kijelentkező gomb, és ez a navigációs rész változhat, attól függően, hogy melyik abalakon van a felhasználó.
 
-![pic][Main]
+![](https://github.com/kovacsmarci96/Chatty_iOS/blob/master/mainScreen.png)
 
 ### Felhasználók
 
@@ -66,7 +66,7 @@ Ha egy kép üzenetet küldött akkor a kép fog megjelenni, erre érintve ki le
 Ha videót küldött az is megfog jelenni, a lejátszás gombra érintve lefog játszódni kicsiben a videó.
 Ha pedig egy helyzetet küldött, akkor megfog jelenni egy kis térkép, megjelölve a felhasználó helyzetét. A térképen a kis jelölésre érintve, megnyílik a beépített térképek alkalmazás, ahol megjelenik a felhasználó helyzete, címe, neve és ha megvan adva telefonszáma az is.
 
-![pic][Chat]
+![](https://github.com/kovacsmarci96/Chatty_iOS/blob/master/chatScreen.png)
 
 ## Adatok tárolása és betöltése
 
