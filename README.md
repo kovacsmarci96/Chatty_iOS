@@ -1,6 +1,4 @@
-# Házi feladat
-
-## Chatty iOS App
+# Chatty iOS App
 
 A Chatty nevű alkalmazás ahogy a neve is leírja egy chat alkalmazás. Funkciók szempontjából hasonlóan működik mint az ismert chat alkalmazások (Messenger, Viber stb.), kivéve, hogy nincs minden azokban megtalálható funkció implementálva.
 
